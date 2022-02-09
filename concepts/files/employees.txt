@@ -1,0 +1,6 @@
+Dan, Engineering
+Andy, Sales
+Kelly, PM
+Creed, QA
+Michael, Manager
+Oscar, AccountingPam, Reception
